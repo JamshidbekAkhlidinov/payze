@@ -1,5 +1,7 @@
 <?php
 
+namespace ustadev\payments;
+
 class PayzeApi
 {
     public $apiKey;
