@@ -2,7 +2,7 @@
 
 use ustadev\payments\PayzeApi;
 
-include "PayzeApi.php";
+include "vendor/autoload.php";
 
 $apiKey = "apiKey";
 $apiSecret = "apiSecret";
