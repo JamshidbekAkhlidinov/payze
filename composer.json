@@ -1,0 +1,17 @@
+{
+    "name": "ustadev/payze",
+    "description": "Payment system",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ustadev\\payments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JamshidbekAkhlidinov",
+            "email": "jamshidbekakhlidinov@gmail.com"
+        }
+    ],
+    "require": {}
+}
